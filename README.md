@@ -1,4 +1,5 @@
+**wassup**
 - name's bcah
-- loves coding
+- loves (and hate) coding
 - still learning python3
 
